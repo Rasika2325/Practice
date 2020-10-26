@@ -1,4 +1,3 @@
-#include <stdio.h>
 int main()
 {
     int x;
@@ -6,5 +5,5 @@ int main()
     printf("Enter the numebrs:-");
     scanf("%d,%d",&x,&y);
     int add(int a, int b);
-     return 0;
+    return 0;
 }
